@@ -1,34 +1,56 @@
-<h2 align="left">Nice to meet you, I'm Krishna!</h2>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Krishna+Bhat!;AI+Engineer+%7C+ML+Developer+%7C+Innovator;Loves+Building+Cool+AI+Projects!" alt="Typing SVG" />
+</p>
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Blacbrd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+- 🧠 Focus: Applied AI, RAG systems, Computer Vision, AI Infra
+- 🎓 Self-taught, project-driven learner
+- ⚡ Fun fact: I believe AI tools should be *useful first, cool second*
 
-<img align="right" height="200" src="https://www.icegif.com/wp-content/uploads/icegif-6980.gif"  />
+---
 
-###
+### 🚀 Tech Stack & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=flat-square&logo=data:image/png;base64,...&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-%2320232a.svg?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-%231572B6.svg?style=flat-square&logo=faiss&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-###
+---
 
-<div align="left">
-  <p><a href="[https://www.linkedin.com/in/szymon-arciszewski/](https://www.linkedin.com/in/krishnabhatu/)">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a></p>
-</div>
+### 🧠 Highlight Projects
 
-###
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🎥 [**VideoBrain**](https://github.com/krx7h/VideoBrain.git) | AI tool that transforms any YouTube video into an interactive tutor. Paste a link, ask real-time questions, get answers. | Python, LangChain, Groq, RAG |
+| 📄 [**QueryPage**](https://github.com/krx7h/QueryPage-Ask-questions-get-answers-from-any-page..git) | Upload any webpage, PDF, or text document and instantly get answers and summaries. | Python, LangChain, LLM |
+| 🚕 [**Ride Pricing Model**](https://github.com/krx7h/Data-Driven-Ride-Pricing-Model.git) | Predicts ride fares from real-world data using regression. Helps understand pricing dynamics. | Jupyter, Pandas, Scikit-learn |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnabhatu/))
+
+---
+
+> *“Build fast. Build useful. Repeat.”*
+
