@@ -38,11 +38,10 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krx7h&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=krx7h&theme=tokyonight" height="160"/>
+  <img src="https://github.com/krx7h/krx7h/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
