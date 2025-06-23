@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Krishna+Bhat!;AI+Engineer+%7C+ML+Developer+%7C+Innovator;Loves+Building+Cool+AI+Projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Krishna+Bhat!;%7C+Innovator;I+Love+Building+Cool+AI+Projects!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -40,9 +40,8 @@
 
 ### 📈 GitHub Activity
 
-
 <p align="center">
-  <img src="https://github.com/krx7h/krx7h/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/krx7h/krx7h/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 
@@ -50,8 +49,11 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnabhatu/)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishnabhatu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 ---
 
 > *“Build fast. Build useful. Repeat.”*
