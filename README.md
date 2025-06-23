@@ -1,11 +1,12 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Krishna+Bhat!;%7C+Innovator;I+Love+Building+Cool+AI+Projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Krishna+Bhat!;%7C;I+Love+Building+Cool+AI+Projects!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+  <img src="https://camo.githubusercontent.com/21d92c38c6bffe4854974313b302fa6a9942864300743dfb8df43391b6c7eecf/68747470733a2f2f7777772e6963656769662e636f6d2f77702d636f6e74656e742f75706c6f6164732f6963656769662d363938302e676966" />
 </p>
+
 
 ---
 
@@ -38,15 +39,6 @@
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github.com/krx7h/krx7h/blob/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
@@ -54,7 +46,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
----
 
-> *“Build fast. Build useful. Repeat.”*
+
+
 
