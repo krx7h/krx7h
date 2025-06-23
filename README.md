@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/21d92c38c6bffe4854974313b302fa6a9942864300743dfb8df43391b6c7eecf/68747470733a2f2f7777772e6963656769662e636f6d2f77702d636f6e74656e742f75706c6f6164732f6963656769662d363938302e676966" />
+  <img src="https://cdn.svgator.com/images/2021/10/solar-system-animation.svg" />
 </p>
 
 
