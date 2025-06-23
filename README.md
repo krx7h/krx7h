@@ -40,9 +40,11 @@
 
 ### 📈 GitHub Activity
 
+
 <p align="center">
-  <img src="https://github.com/krx7h/krx7h/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/krx7h/krx7h/raw/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
