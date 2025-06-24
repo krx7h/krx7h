@@ -36,6 +36,7 @@
 | 🎥 [**VideoBrain**](https://github.com/krx7h/VideoBrain.git) | AI tool that transforms any YouTube video into an interactive tutor. Paste a link, ask real-time questions, get answers. | Python, LangChain, Groq, RAG |
 | 📄 [**QueryPage**](https://github.com/krx7h/QueryPage-Ask-questions-get-answers-from-any-page..git) | Upload any webpage, PDF, or text document and instantly get answers and summaries. | Python, LangChain, LLM |
 | 🚕 [**Ride Pricing Model**](https://github.com/krx7h/Data-Driven-Ride-Pricing-Model.git) | Predicts ride fares from real-world data using regression. Helps understand pricing dynamics. | Jupyter, Pandas, Scikit-learn |
+| 🎮 [**VisionMaster**](https://github.com/krx7h/VisionMaster.git) | Control Subway Surfers with your face gestures using your webcam! 🧠 Built with Python, OpenCV, MediaPipe, and PyAutoGUI to map nose movement to in-game actions like jump, slide, and turn. | OpenCV, Mediapipe, Python |
 
 ---
 
