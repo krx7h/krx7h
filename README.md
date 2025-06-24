@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.svgator.com/images/2021/10/solar-system-animation.svg" />
+  <img src="https://github.com/ottogiron/ironman/blob/master/ironman.png" />
 </p>
 
 
